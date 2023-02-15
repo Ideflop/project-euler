@@ -1,1 +1,5 @@
+# the first 3 lines are to ignore all files without a . 
+*
+!*/
+!*.*
 remarque.txt
